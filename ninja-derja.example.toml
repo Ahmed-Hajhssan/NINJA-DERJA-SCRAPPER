@@ -1,0 +1,11 @@
+# NINJA DERJA SCRAPER configuration
+output_dir = "output/derja"
+input_path = "input/input.txt"
+top_results = 10
+script = "arabic"
+download_audio = false
+clip_types = "both"
+delay = 0.0
+retries = 3
+workers = 4
+audio_permission_acknowledged = false
